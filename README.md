@@ -65,7 +65,7 @@
 <div align="center">
 <a href="https://github.com/joaocarreiraa">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaocarreiraa&show_icons=true&hide_border=true&theme=nord&bg_color=0d1117&title_color=88C0D0&icon_color=88C0D0&text_color=ffffff" width="48%">
+<img src="https://custom-doodle.com/wp-content/uploads/doodle/scooby-doo-checks-your-text/scooby-doo-checks-your-text-doodle.gif" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarreiraa&layout=compact&hide_border=true&theme=nord&bg_color=0d1117&title_color=88C0D0&text_color=ffffff" width="40%">
 
 </a>

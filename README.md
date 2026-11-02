@@ -65,8 +65,7 @@
 <div align="center">
 <a href="https://github.com/joaocarreiraa">
 
-<img src="https://custom-doodle.com/wp-content/uploads/doodle/scooby-doo-checks-your-text/scooby-doo-checks-your-text-doodle.gif" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarreiraa&layout=compact&hide_border=true&theme=nord&bg_color=0d1117&title_color=88C0D0&text_color=ffffff" width="40%">
+<img src="https://png.pngtree.com/png-vector/20250825/ourmid/pngtree-executive-dog-in-glasses-approves-accounting-with-thumbs-up-scooby-doo-png-image_17186063.webp" width="18%">
 
 </a>
 

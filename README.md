@@ -42,7 +42,7 @@
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" align="center" width="25"> **AWS Student Builders Group**
     - **Group Leader @ Instituto Federal do Pará (IFPA)**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" align="right" width="11%" />
+<img src="https://images.credly.com/size/340x340/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" alt="Black Cat" align="right" width="11%" />
 <br/>
 <br/>
 

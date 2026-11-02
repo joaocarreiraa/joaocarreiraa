@@ -1,6 +1,6 @@
-# Hi! I'm João Lucas Carreira <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium-Light%20Skin%20Tone.png" width="32px">
+# Olá! Eu sou o João Lucas Carreira <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium-Light%20Skin%20Tone.png" width="32px">
 
-## Skills :rocket:
+## Habilidades :rocket:
 
 <p align="center">
 
@@ -38,15 +38,29 @@
 
 </p>
 
-## My Trajectory :compass:
- - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" align="center" width="25"> **AWS Student Builders Group**
-    - **Group Leader @ Instituto Federal do Pará (IFPA)**
+## Minha Trajetória :compass:
 
-<img src="https://images.credly.com/size/340x340/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" alt="Black Cat" align="right" width="11%" />
-<br/>
+<div class = "grid grid-cols-1 md:grid-cols-2 gap-8" align="center">
+
+  <img src="https://www.teamcodeorange.com/images/firstsmall.png" alt="First - First Robotics Canada Logo, HD Png Download@kindpng.com" width="170px" />
+
+  <p>
+    <strong>First Tech Challenge Team Leader </strong><br/>
+    Escola Sesi Belém - Equipe Paratech (2022-2025)
+  </p>
+  <img src="https://images.credly.com/size/340x340/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" alt="AWS Credential" width="130px" />
+
+  <p>
+    <strong>AWS Student Builder Group Leader</strong><br/>
+    Instituto Federal do Pará (IFPA)
+  </p>
+  
+
+</div>
+
 <br/>
 
-## Github Stats :bar_chart:
+## Estatísticas do GitHub :bar_chart:
 
 <div align="center">
 <a href="https://github.com/joaocarreiraa">
@@ -65,4 +79,4 @@
 
 <hr/>
 
-### Thanks for visiting!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25"/>
+### Obrigado pela visita!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25"/>
